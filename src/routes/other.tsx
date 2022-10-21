@@ -13,7 +13,7 @@ export default function Home() {
           <Title>Title 2</Title>
         </div>
       </Show>
-      <h1>Hello world!</h1>
+      <h1>Other Hello world!</h1>
       <Counter />
       <p>
         Visit{' '}
